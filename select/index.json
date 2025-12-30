@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Checklist",
+  "base_artist": "MAX",
+  "createdAt": "2025-12-30T06:32:48.615667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Checklist (feat. Chromeo)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/01_Checklist_(feat._Chromeo)_MAX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "Megan Nicole",
+      "has_synced": true,
+      "path": "select/02_Checklist_Megan_Nicole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Checklist (feat. Wizkid)",
+      "artist": "Normani, Calvin Harris feat. Wizkid",
+      "has_synced": true,
+      "path": "select/03_Checklist_(feat._Wizkid)_Normani,_Calvin_Harris_feat._Wizkid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "Normani",
+      "has_synced": true,
+      "path": "select/04_Checklist_Normani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/05_Checklist_MAX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Checklist (feat. Chromeo)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/06_Checklist_(feat._Chromeo)_MAX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Checklist (feat. Wizkid)",
+      "artist": "Normani, Calvin Harris",
+      "has_synced": true,
+      "path": "select/07_Checklist_(feat._Wizkid)_Normani,_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Checklist (with Calvin Harris)",
+      "artist": "Normani feat. Calvin Harris & WizKid",
+      "has_synced": true,
+      "path": "select/08_Checklist_(with_Calvin_Harris)_Normani_feat._Calvin_Harris_&_WizKid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Checklist (with Calvin Harris) (feat. WizKid)",
+      "artist": "Normani",
+      "has_synced": true,
+      "path": "select/09_Checklist_(with_Calvin_Harris)_(feat._WizKid)_Normani.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Checklist (with Calvin Harris)",
+      "artist": "Normani",
+      "has_synced": true,
+      "path": "select/10_Checklist_(with_Calvin_Harris)_Normani.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Checklist (feat. Chromeo)",
+      "artist": "MAX;Chromeo",
+      "has_synced": true,
+      "path": "select/11_Checklist_(feat._Chromeo)_MAX;Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "MAX feat. Chromeo",
+      "has_synced": true,
+      "path": "select/12_Checklist_MAX_feat._Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "Normani feat. WizKid",
+      "has_synced": true,
+      "path": "select/13_Checklist_Normani_feat._WizKid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Picky Bitch Checklist",
+      "artist": "Junglepussy",
+      "has_synced": true,
+      "path": "select/14_Picky_Bitch_Checklist_Junglepussy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "MAX feat. Chromeo",
+      "has_synced": true,
+      "path": "select/15_Checklist_MAX_feat._Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Checklist (with Calvin Harris)",
+      "artist": "Normani, Calvin Harris",
+      "has_synced": true,
+      "path": "select/16_Checklist_(with_Calvin_Harris)_Normani,_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "Prznt",
+      "has_synced": true,
+      "path": "select/17_Checklist_Prznt.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Checklist",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/18_Checklist_MAX.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Checklist (feat. Chromeo)",
+      "artist": "MAX, Chromeo",
+      "has_synced": true,
+      "path": "select/19_Checklist_(feat._Chromeo)_MAX,_Chromeo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Checklist (feat. Chromeo)",
+      "artist": "MAX",
+      "has_synced": false,
+      "path": "select/pl_01_Checklist_(feat._Chromeo)_MAX.txt"
+    }
+  ]
+}
